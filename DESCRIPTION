@@ -1,5 +1,5 @@
 Package: h5primer
-Title: What the Package Does (One Line, Title Case)
+Title: Use H5P Together With `learnr`-Tutorials
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Peter",
@@ -7,8 +7,9 @@ Authors@R:
            role = c("aut", "cre"),
            email = "petzi53@gmail.com",
            comment = c(ORCID = "0000-0003-4526-8791"))
-Description: What the package does (one paragraph).
-License: MIT + file LICENSE
+Description: The packages explains and showcases how H5P could be used for 
+    introductory courses for statistics or data science.
+License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
